@@ -1,0 +1,11 @@
+
+{ 
+  "packageDirectories" : [ 
+      { "path": "force-app", "default": true}, 
+      { "path" : "unpackaged" }, 
+      { "path" : "utils" } 
+    ],
+  "namespace": "", 
+  "sfdcLoginUrl" : "https://cumminscss--fsldev.cs68.my.salesforce.com", 
+  "sourceApiVersion": "44.0"
+  }
